@@ -34,4 +34,4 @@ The scripts read capture JSON files from `/private/tmp` and write the correspond
 
 ## Next task
 
-Continue with Session 5 using the replay list at `/Users/tolushekoni/PMP Replay Zoom Links 2026 (1).xlsx`. Inspect its URL/passcode in the `Nov 2026 PMP5Day` sheet, then use short checkpointed batches and verify source-index continuity before generating the three Markdown artifacts.
+Continue with Session 5 after obtaining its replay URL. The `Nov 2026 PMP5Day` sheet identifies the recording date as Nov 20, 2026 and has a passcode in `C7`, but the URL cell `D7` is blank. Once the URL is available, use short checkpointed batches and verify source-index continuity before generating the three Markdown artifacts.
