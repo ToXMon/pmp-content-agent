@@ -1,0 +1,431 @@
+{
+  "aliases": [
+    {
+      "alias": "AC",
+      "canonical": "actual cost",
+      "topic_id": "COST-EVM",
+      "related_not_synonyms": [
+        "EVM",
+        "EV"
+      ]
+    },
+    {
+      "alias": "BAC",
+      "canonical": "budget at completion",
+      "topic_id": "COST-EVM",
+      "related_not_synonyms": [
+        "EAC",
+        "cost baseline"
+      ]
+    },
+    {
+      "alias": "CBA",
+      "canonical": "cost-benefit analysis",
+      "topic_id": "FOUND-VALUE",
+      "related_not_synonyms": [
+        "NPV"
+      ]
+    },
+    {
+      "alias": "CCB",
+      "canonical": "change control board",
+      "topic_id": "CHANGE-CONTROL",
+      "related_not_synonyms": [
+        "change request",
+        "baseline change"
+      ]
+    },
+    {
+      "alias": "CFD",
+      "canonical": "cumulative flow diagram",
+      "topic_id": "MONITOR-FLOW",
+      "related_not_synonyms": [
+        "WIP",
+        "throughput"
+      ]
+    },
+    {
+      "alias": "COQ",
+      "canonical": "cost of quality",
+      "topic_id": "QUALITY-MANAGE",
+      "related_not_synonyms": [
+        "prevention",
+        "appraisal",
+        "failure costs"
+      ]
+    },
+    {
+      "alias": "CPI",
+      "canonical": "cost performance index",
+      "topic_id": "COST-EVM",
+      "related_not_synonyms": [
+        "EVM",
+        "CV"
+      ]
+    },
+    {
+      "alias": "CPM",
+      "canonical": "critical path method",
+      "topic_id": "SCHEDULE-CPM",
+      "related_not_synonyms": [
+        "float",
+        "dependencies"
+      ]
+    },
+    {
+      "alias": "CV",
+      "canonical": "cost variance",
+      "topic_id": "COST-EVM",
+      "related_not_synonyms": [
+        "CPI"
+      ]
+    },
+    {
+      "alias": "DoD",
+      "canonical": "definition of done",
+      "topic_id": "QUALITY-ACCEPTANCE",
+      "related_not_synonyms": [
+        "acceptance criteria"
+      ]
+    },
+    {
+      "alias": "EAC",
+      "canonical": "estimate at completion",
+      "topic_id": "COST-EVM",
+      "related_not_synonyms": [
+        "EVM",
+        "BAC"
+      ]
+    },
+    {
+      "alias": "ECO",
+      "canonical": "exam content outline",
+      "topic_id": "EXAM-REASONING",
+      "related_not_synonyms": [
+        "practice exams"
+      ]
+    },
+    {
+      "alias": "EV",
+      "canonical": "earned value",
+      "topic_id": "COST-EVM",
+      "related_not_synonyms": [
+        "EVM",
+        "PV",
+        "AC"
+      ]
+    },
+    {
+      "alias": "EVM",
+      "canonical": "earned value management",
+      "topic_id": "COST-EVM",
+      "related_not_synonyms": [
+        "EV",
+        "PV",
+        "AC",
+        "CPI",
+        "SPI",
+        "EAC",
+        "BAC",
+        "CV",
+        "SV"
+      ]
+    },
+    {
+      "alias": "NPV",
+      "canonical": "net present value",
+      "topic_id": "FOUND-VALUE",
+      "related_not_synonyms": [
+        "CBA"
+      ]
+    },
+    {
+      "alias": "PESTEL",
+      "canonical": "PESTLE",
+      "topic_id": "GOV-ENVIRONMENT",
+      "related_not_synonyms": [
+        "external business environment"
+      ]
+    },
+    {
+      "alias": "PMIS",
+      "canonical": "project management information system",
+      "topic_id": "ARTIFACT-PMIS",
+      "related_not_synonyms": [
+        "configuration management"
+      ]
+    },
+    {
+      "alias": "PV",
+      "canonical": "planned value",
+      "topic_id": "COST-EVM",
+      "related_not_synonyms": [
+        "EVM",
+        "EV"
+      ]
+    },
+    {
+      "alias": "RTM",
+      "canonical": "requirements traceability matrix",
+      "topic_id": "SCOPE-REQUIREMENTS",
+      "related_not_synonyms": [
+        "requirements elicitation"
+      ]
+    },
+    {
+      "alias": "SEAM",
+      "canonical": "stakeholder engagement assessment matrix",
+      "topic_id": "STAKE-ENGAGEMENT",
+      "related_not_synonyms": [
+        "stakeholder register"
+      ]
+    },
+    {
+      "alias": "SPI",
+      "canonical": "schedule performance index",
+      "topic_id": "COST-EVM",
+      "related_not_synonyms": [
+        "EVM",
+        "SV"
+      ]
+    },
+    {
+      "alias": "SV",
+      "canonical": "schedule variance",
+      "topic_id": "COST-EVM",
+      "related_not_synonyms": [
+        "SPI"
+      ]
+    },
+    {
+      "alias": "T&M",
+      "canonical": "time and materials",
+      "topic_id": "PROC-CONTRACTS",
+      "related_not_synonyms": [
+        "fixed-price contract",
+        "cost-reimbursable contract"
+      ]
+    },
+    {
+      "alias": "WBS",
+      "canonical": "work breakdown structure",
+      "topic_id": "SCOPE-WBS",
+      "related_not_synonyms": [
+        "decomposition",
+        "work package",
+        "WBS dictionary"
+      ]
+    },
+    {
+      "alias": "WIP",
+      "canonical": "work in progress",
+      "topic_id": "DELIVERY-CADENCE",
+      "related_not_synonyms": [
+        "Kanban",
+        "throughput"
+      ]
+    }
+  ],
+  "topic_search_aliases": {
+    "AGILE-SCRUM": [
+      "Scrum roles",
+      "Scrum events"
+    ],
+    "APPROACH-HYBRID": [
+      "hybrid project",
+      "blended approach",
+      "fixed dates and flexible scope"
+    ],
+    "APPROACH-TAILOR": [
+      "plan-based",
+      "plan-driven",
+      "change-based",
+      "delivery approach selection"
+    ],
+    "ARTIFACT-PMIS": [
+      "PMIS",
+      "artifact management system",
+      "controlled versions"
+    ],
+    "CHANGE-CONTROL": [
+      "CCB",
+      "formal change control",
+      "change approval"
+    ],
+    "CLOSE-FORMAL": [
+      "project closeout",
+      "formal sign-off"
+    ],
+    "CLOSE-TRANSITION": [
+      "BAU handover",
+      "transition to operations",
+      "benefit owner"
+    ],
+    "COST-BASELINE": [
+      "cost budgeting",
+      "funding ceiling",
+      "cost estimates"
+    ],
+    "COST-EVM": [
+      "EVM",
+      "EV",
+      "PV",
+      "AC",
+      "CPI",
+      "SPI",
+      "EAC",
+      "BAC",
+      "CV",
+      "SV"
+    ],
+    "DELIVERY-CADENCE": [
+      "WIP",
+      "continuous flow",
+      "timeboxed delivery"
+    ],
+    "DELIVERY-IMPROVE": [
+      "retro",
+      "lessons learned"
+    ],
+    "EXAM-REASONING": [
+      "PMP mindset",
+      "what should the PM do first",
+      "ECO"
+    ],
+    "FOUND-CHARTER": [
+      "project authorization",
+      "project mandate"
+    ],
+    "FOUND-VALUE": [
+      "CBA",
+      "NPV",
+      "investment appraisal"
+    ],
+    "GOV-ENVIRONMENT": [
+      "macro environment",
+      "PESTEL",
+      "external factors"
+    ],
+    "GOV-ETHICS": [
+      "professional ethics",
+      "ethical conduct"
+    ],
+    "GOV-GATES": [
+      "go no-go review",
+      "stage gate",
+      "project management office"
+    ],
+    "MONITOR-FLOW": [
+      "burn-up",
+      "burn-down",
+      "CFD",
+      "flow metrics",
+      "workflow stage",
+      "workflow bottleneck",
+      "tasks piling up"
+    ],
+    "MONITOR-STATUS": [
+      "project status",
+      "progress report",
+      "forecast completion"
+    ],
+    "PROC-CLOSE": [
+      "close procurement",
+      "supplier closeout"
+    ],
+    "PROC-CONTRACTS": [
+      "T&M",
+      "supplier contracting",
+      "contract type"
+    ],
+    "QUALITY-ACCEPTANCE": [
+      "DoD",
+      "done criteria"
+    ],
+    "QUALITY-MANAGE": [
+      "COQ",
+      "quality planning"
+    ],
+    "RISK-ISSUES": [
+      "impediment log",
+      "blocker",
+      "track issues"
+    ],
+    "RISK-RESPONSES": [
+      "risk assessment",
+      "risk mitigation",
+      "positive risk",
+      "negative risk"
+    ],
+    "SCHEDULE-BASELINE": [
+      "approved schedule",
+      "schedule slippage"
+    ],
+    "SCHEDULE-COMPRESSION": [
+      "overlap activities",
+      "add resources to shorten schedule"
+    ],
+    "SCHEDULE-CPM": [
+      "CPM",
+      "critical path method",
+      "slack"
+    ],
+    "SCOPE-BACKLOG": [
+      "backlog ordering",
+      "adaptive scope"
+    ],
+    "SCOPE-REQUIREMENTS": [
+      "RTM",
+      "requirements gathering",
+      "trace requirements"
+    ],
+    "SCOPE-WBS": [
+      "WBS",
+      "deliverable breakdown"
+    ],
+    "STAKE-COMMS": [
+      "communication plan",
+      "comms plan"
+    ],
+    "STAKE-ENGAGEMENT": [
+      "stakeholder mapping",
+      "SEAM"
+    ],
+    "TEAM-CHARTER": [
+      "working agreements",
+      "ground rules",
+      "forming storming norming performing"
+    ],
+    "TEAM-CONFLICT": [
+      "manage disagreements",
+      "team conflict",
+      "resolve conflict"
+    ],
+    "TEAM-LEADERSHIP": [
+      "servant leader",
+      "self-managing team"
+    ]
+  },
+  "related_not_synonyms": {
+    "change control": [
+      "change request",
+      "CCB",
+      "baseline change"
+    ],
+    "risk": [
+      "uncertainty",
+      "threat",
+      "opportunity",
+      "risk response",
+      "issue"
+    ],
+    "work breakdown structure": [
+      "decomposition",
+      "work package"
+    ],
+    "definition of done": [
+      "acceptance criteria",
+      "formal acceptance"
+    ]
+  }
+}

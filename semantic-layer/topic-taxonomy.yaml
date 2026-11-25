@@ -1,0 +1,221 @@
+{
+  "version": 1,
+  "domains": {
+    "agile-adaptive-practices": [
+      {
+        "topic_id": "AGILE-SCRUM",
+        "title": "Scrum accountabilities and feedback events",
+        "path": "topics/agile-scrum.md"
+      }
+    ],
+    "change-decision-control": [
+      {
+        "topic_id": "CHANGE-CONTROL",
+        "title": "Baseline change control and backlog decisions",
+        "path": "topics/change-control.md"
+      }
+    ],
+    "closure-transition-benefits": [
+      {
+        "topic_id": "CLOSE-FORMAL",
+        "title": "Project or phase closure and formal acceptance",
+        "path": "topics/close-formal.md"
+      },
+      {
+        "topic_id": "CLOSE-TRANSITION",
+        "title": "Transition to operations and benefits sustainment",
+        "path": "topics/close-transition.md"
+      }
+    ],
+    "cost-finance-evm": [
+      {
+        "topic_id": "COST-BASELINE",
+        "title": "Cost estimation, budgeting and funding limits",
+        "path": "topics/cost-baseline.md"
+      },
+      {
+        "topic_id": "COST-EVM",
+        "title": "Earned value, variances and cost forecasts",
+        "path": "topics/cost-evm.md"
+      }
+    ],
+    "development-approaches": [
+      {
+        "topic_id": "APPROACH-HYBRID",
+        "title": "Hybrid delivery and fixed commitments",
+        "path": "topics/approach-hybrid.md"
+      },
+      {
+        "topic_id": "APPROACH-TAILOR",
+        "title": "Predictive and adaptive delivery selection",
+        "path": "topics/approach-tailor.md"
+      }
+    ],
+    "execution-delivery": [
+      {
+        "topic_id": "DELIVERY-CADENCE",
+        "title": "Delivery cadence, pull and timeboxes",
+        "path": "topics/delivery-cadence.md"
+      },
+      {
+        "topic_id": "DELIVERY-IMPROVE",
+        "title": "Retrospectives, lessons learned and improvement",
+        "path": "topics/delivery-improve.md"
+      }
+    ],
+    "governance-ethics": [
+      {
+        "topic_id": "GOV-ENVIRONMENT",
+        "title": "External environment and compliance change",
+        "path": "topics/gov-environment.md"
+      },
+      {
+        "topic_id": "GOV-ETHICS",
+        "title": "Ethics and professional conduct",
+        "path": "topics/gov-ethics.md"
+      },
+      {
+        "topic_id": "GOV-GATES",
+        "title": "Governance, phase gates and escalation",
+        "path": "topics/gov-gates.md"
+      }
+    ],
+    "monitoring-status-forecasting": [
+      {
+        "topic_id": "MONITOR-FLOW",
+        "title": "Burnup, burndown and flow metrics",
+        "path": "topics/monitor-flow.md"
+      },
+      {
+        "topic_id": "MONITOR-STATUS",
+        "title": "Performance reports, status and forecasting",
+        "path": "topics/monitor-status.md"
+      }
+    ],
+    "pmp-exam-reasoning": [
+      {
+        "topic_id": "EXAM-REASONING",
+        "title": "PMP situational reasoning and study practice",
+        "path": "topics/exam-reasoning.md"
+      }
+    ],
+    "procurement-vendors": [
+      {
+        "topic_id": "PROC-CLOSE",
+        "title": "Procurement and contract closeout",
+        "path": "topics/proc-close.md"
+      },
+      {
+        "topic_id": "PROC-CONTRACTS",
+        "title": "Procurement and contract selection",
+        "path": "topics/proc-contracts.md"
+      }
+    ],
+    "project-artifacts": [
+      {
+        "topic_id": "ARTIFACT-PMIS",
+        "title": "Project artifacts, PMIS and configuration control",
+        "path": "topics/artifact-pmis.md"
+      }
+    ],
+    "project-foundations-value": [
+      {
+        "topic_id": "FOUND-CHARTER",
+        "title": "Business case, charter and project life cycle",
+        "path": "topics/found-charter.md"
+      },
+      {
+        "topic_id": "FOUND-VALUE",
+        "title": "Value, benefits and investment appraisal",
+        "path": "topics/found-value.md"
+      }
+    ],
+    "quality-acceptance": [
+      {
+        "topic_id": "QUALITY-ACCEPTANCE",
+        "title": "Acceptance criteria and definition of done",
+        "path": "topics/quality-acceptance.md"
+      },
+      {
+        "topic_id": "QUALITY-MANAGE",
+        "title": "Quality management and cost of quality",
+        "path": "topics/quality-manage.md"
+      }
+    ],
+    "risk-issues-opportunities": [
+      {
+        "topic_id": "RISK-ISSUES",
+        "title": "Risks, issues and impediments",
+        "path": "topics/risk-issues.md"
+      },
+      {
+        "topic_id": "RISK-RESPONSES",
+        "title": "Risk analysis and threat or opportunity responses",
+        "path": "topics/risk-responses.md"
+      }
+    ],
+    "schedule-dependencies": [
+      {
+        "topic_id": "SCHEDULE-BASELINE",
+        "title": "Schedule baseline and variance",
+        "path": "topics/schedule-baseline.md"
+      },
+      {
+        "topic_id": "SCHEDULE-COMPRESSION",
+        "title": "Schedule compression: fast tracking and crashing",
+        "path": "topics/schedule-compression.md"
+      },
+      {
+        "topic_id": "SCHEDULE-CPM",
+        "title": "Critical path and schedule dependencies",
+        "path": "topics/schedule-cpm.md"
+      }
+    ],
+    "scope-requirements-backlog": [
+      {
+        "topic_id": "SCOPE-BACKLOG",
+        "title": "Product backlog and adaptive scope",
+        "path": "topics/scope-backlog.md"
+      },
+      {
+        "topic_id": "SCOPE-REQUIREMENTS",
+        "title": "Requirements elicitation and traceability",
+        "path": "topics/scope-requirements.md"
+      },
+      {
+        "topic_id": "SCOPE-WBS",
+        "title": "Scope baseline and work breakdown structure",
+        "path": "topics/scope-wbs.md"
+      }
+    ],
+    "stakeholders-communications": [
+      {
+        "topic_id": "STAKE-COMMS",
+        "title": "Communications planning and feedback",
+        "path": "topics/stake-comms.md"
+      },
+      {
+        "topic_id": "STAKE-ENGAGEMENT",
+        "title": "Stakeholder identification and engagement",
+        "path": "topics/stake-engagement.md"
+      }
+    ],
+    "teams-leadership-conflict": [
+      {
+        "topic_id": "TEAM-CHARTER",
+        "title": "Team charter, norms and accountability",
+        "path": "topics/team-charter.md"
+      },
+      {
+        "topic_id": "TEAM-CONFLICT",
+        "title": "Conflict management and resolution",
+        "path": "topics/team-conflict.md"
+      },
+      {
+        "topic_id": "TEAM-LEADERSHIP",
+        "title": "Servant leadership and team empowerment",
+        "path": "topics/team-leadership.md"
+      }
+    ]
+  }
+}
